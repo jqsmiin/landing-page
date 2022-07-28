@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Landing Page
 
-First, run the development server:
+This is a responsive landing page, created with next js. The design was created by [startup landing.](https://startuplanding.redq.io)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies
+ 
+Project is created with : 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- [Next js](https://nextjs.org)
+- [react-modal-video](https://www.npmjs.com/package/react-modal-video)
+- [react-multi-carousel](https://react-multi-carousel.surge.sh)
+- [react-bootstrap](https://react-bootstrap.github.io)
+- [Bootstrap](https://getbootstrap.com)
+- [Sass](https://sass-lang.com)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Screenshots
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Screenshot_10](https://user-images.githubusercontent.com/86678700/181424920-18c6c09e-4767-45c7-bbdf-a7e94b0b58f0.png)
 
-## Deploy on Vercel
+![Screenshot_2](https://user-images.githubusercontent.com/86678700/181424655-5184fdd0-8d7f-4056-bb9b-d63d235e094d.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Screenshot_1](https://user-images.githubusercontent.com/86678700/181424669-79eb04b0-5858-4f11-8b67-07621ff2fd88.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot_7](https://user-images.githubusercontent.com/86678700/181424689-68702aff-e455-41fa-ac99-ca91b2566248.png)
+
+![Screenshot_8](https://user-images.githubusercontent.com/86678700/181424719-9b1a40eb-737e-4399-997a-02b4fb894985.png)
+
+![Screenshot_4](https://user-images.githubusercontent.com/86678700/181424735-85cc8202-1bc0-4129-8e7a-77cbd3e3aac1.png)
+
+
+
