@@ -1,0 +1,47 @@
+#home{
+    background: url('../pages/images/home-banner.png');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #1F3E76;
+    border-bottom-right-radius: 116px;
+    padding-bottom: 120px;
+    overflow-x: clip;
+    margin-bottom: 5rem;
+    padding-top: 140px;
+    color: #fff;
+    .item-1{
+        h2{
+            font-size: 4rem;
+        }
+        p{
+            padding-top: 20px;
+            padding-bottom: 20px;
+            font-size: 19px;
+            letter-spacing: 0.5px;
+        }
+        .button-container{
+            padding-bottom: 3rem;
+            display: flex;
+            gap: 3rem;
+        }
+        .sponsored{
+            display: flex;
+            h4{
+                font-size: 18px;
+                color: #ccc;
+                padding-top: 3px;
+            }
+            ul{
+                display: flex;
+                padding-left: 1rem !important;
+                gap: 1.3rem;
+            }
+        }
+    }
+    .item-2{
+        img{
+            width: 120%;
+        }
+    }
+}
